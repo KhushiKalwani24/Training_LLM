@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Virtual environment
+.venv/
+
+# Model files (too large for GitHub)
+gpt2-local/
+output/
+models/
+
+# HuggingFace cache
+*.bin
+*.safetensors
+
+# PyCharm
+.idea/
